@@ -1,3 +1,5 @@
+<img src="showcase.png" width="500" />
+
 # Chatting Messenger
 
 *Chatting is modern messenger with differences between popular messenger Telegram.*
