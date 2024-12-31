@@ -21,6 +21,6 @@
 *- Chatting doesn't take any your information. It's secure.*
 
 
-[Web Site](https://chatting.is-a.dev)
+[Web Site](https://chattingmessenger.is-a.dev)
 <br>
 [Telegram Channel](https://t.me/chatting_messenger)
