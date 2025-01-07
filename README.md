@@ -4,7 +4,7 @@
 
 *Chatting is modern messenger with differences between popular messenger Telegram.*
 
-Windows support (Linux, macOS, Android, iOS soon)
+*Windows support (Linux, macOS, Android, iOS soon)*
 
 **Features:**
 <br>
