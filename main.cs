@@ -2,7 +2,7 @@
 /*
  * Anonymous Messenger written on C#
  * Author: https://github.com/riotoff/
- * Repository: https://github.com/riotoff/chatting_messenger/
+ * Repository: https://github.com/riotoff/chatting/
 */
 
 // Soon
